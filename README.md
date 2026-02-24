@@ -28,7 +28,7 @@ Key predictive features included:
 
 ## Visualization
 - `visuals/decision_tree.png`
-- `Tableau/EPL.twb` – Interactive Tableau dashboard
+- https://public.tableau.com/app/profile/jamil.gracia/viz/EPL2324Visuals/Dashboard2
 
 ## Product Perspective
 This modeling framework could be extended to:
